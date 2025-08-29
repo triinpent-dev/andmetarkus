@@ -1,0 +1,18 @@
+Count of Became paying customer after trial?;Became cutomer;;;;;;
+Used automations;Yes;No;Grand Total;;;;
+Used;70,88%;29,12%;100,00%;;;;
+Didn't use;29,80%;70,20%;100,00%;;;;
+Grand Total;46,30%;53,70%;100,00%;;;;
+;;;;;;;
+;;;;;;;
+Used automations;Became customer;Didn't become customer;Grand Total;;;;
+Used;1139;468;1607;;100;0;100
+Didn't use;713;1680;2393;;0;100;100
+Grand Total;1852;2148;4000;;100;100;200
+;;;;;;;
+;;;;;;;
+Row Labels;Became customer;Didn't become customer;;;;;
+Used;744;863;;;50,00;50,00;100
+Didn't use;1108;1285;;;50,00;50,00;20
+;;;;;100;100;
+Hii-ruut-statistiku statistiline olulisus (p-value);;;6,0625E-144;;;;
